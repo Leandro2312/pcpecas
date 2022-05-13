@@ -1,0 +1,31 @@
+h1{
+    font-size: 24px;
+    text-align: center;
+}
+.botao1,
+.botao2{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16;
+    text-transform: uppercase;
+    border: 1px solid black;
+    display: inline-block;
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 250px;
+    text-align: center;
+
+}
+
+    
+.botao1{
+    margin-top: 100px;
+}
+body{
+    text-align: center;
+
+}
+
+
+
+
