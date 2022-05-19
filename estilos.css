@@ -1,6 +1,14 @@
-h1{
-    font-size: 24px;
+body{
     text-align: center;
+    background-color: rgb(133, 133, 133);  
+}
+
+h1{
+    background: rgb(0, 0, 0);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    font-size: 27px;
+    text-align: center;
+    margin-bottom: auto;
 }
 .botao1,
 .botao2{
@@ -8,7 +16,7 @@ h1{
     font-weight: bold;
     font-size: 16;
     text-transform: uppercase;
-    border: 1px solid black;
+    border: 2px solid black;
     display: inline-block;
     padding: 10px;
     margin-bottom: 20px;
@@ -21,11 +29,21 @@ h1{
 .botao1{
     margin-top: 100px;
 }
-body{
-    text-align: center;
 
+fieldset{
+    width: 350px;
+    height:220px;
+    margin: 0 auto;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
 }
-
+legend{
+    font-size: 20px;
+    margin:auto;
+    color: blue
+    border
+   
+}
 
 
 
